@@ -5,6 +5,7 @@
 
 body {
   padding-top: 60px;
+  background-color: #fff;
 }
 
 section {
@@ -101,4 +102,15 @@ p {
 }
 .top  {
   color: #fff !important; 
+}
+.login {
+  color: #fff !important;
+}
+#top:hover {
+  color: gray;
+  text-decoration: none;
+}
+#login:hover {
+  color: gray;
+  text-decoration: none;
 }
