@@ -101,16 +101,14 @@ p {
   background-color: teal;
 }
 .top  {
-  color: #fff !important; 
+  background-color: teal !important; 
 }
 .login {
+  background-color: teal !important;
+}
+.white {
   color: #fff !important;
 }
-#top:hover {
-  color: gray;
-  text-decoration: none;
-}
-#login:hover {
-  color: gray;
-  text-decoration: none;
+.white:hover {
+  color: gray !important;
 }
