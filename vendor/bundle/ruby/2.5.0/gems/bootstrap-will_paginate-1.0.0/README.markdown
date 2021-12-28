@@ -1,4 +1,6 @@
 ## [Will Paginate][wp] link renderer styles for [Twitter Bootstrap 3/4][bs]
+## [Will Paginate][wp] link renderer styles for [Twitter Bootstrap 3/4][bs]
+## [Will Paginate][wp] link renderer styles for [Twitter Bootstrap 3/4][bs]
 
 Rails Engine that extends [will_paginate][wp] stylings to match the pagination styling conventions
 in Twitter's [Bootstrap][bs] toolkit.
