@@ -4,3 +4,7 @@ User.create!( name: "Sample User",
               email: "sample@email.com",
               password: "password",
               password_confirmation: "password")
+              
+Task.create!( name: "Sample Task",
+              user_id: 1,
+              description: "sample Description")              
